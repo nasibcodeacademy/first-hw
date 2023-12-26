@@ -1,0 +1,4 @@
+Proqramist ve Developer arasindaki ferq nedir?
+bunu internetde arastirdigim zaman bu neticeye geldim ki programistin professionalliq sahesi muxtelif programlasdirma dillerinde komputer ve diger sistem programlarini yaratmaq ucun yazilan kodlardir. Yeniki 
+proqramistler programlarin yazildigi programlasdirma dilindeki kodlari hazirlayir ve sinaqdan kecirir. Developerler ise daha cox bu programlarin yazilmasina yonelmis sahedi. Developer programin yazilmasina ve 
+burada olan xetalarin aradan qaldirilmasi ile mesgul olur.Dusunurem ki programistler her program dilinde isleme bacarigina sahib olmalidirlar ama developerlere ise mueyyen dillerde professionallasmaq kifayet   edir

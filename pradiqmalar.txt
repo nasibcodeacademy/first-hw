@@ -1,0 +1,6 @@
+Pradiqmalar umumilikde 2 yere bolunur. Imperativ ve deklarativ. Qisa olaraq izah etmeliyemse imperativ pradiqmalar sizin komandalarinizi nece icra edeceyi esasdi. Biz ona detalli nece edeceyini bildirmeliyik. 
+deklarativde ise maraqli olan komandanin nece icra olunacagi deyil, komandanin ne oldugudu. Qisa bir numune getirmeli olsam eger, misal ucun dostunuz size ilk defe qonaq gelir ve evinizin unvanini bilmir. 
+Sizin dostunuza oz evinden sizin unvaniniza gelen yolu izah etmeyiniz imperativ sayilir, ona unvani gondermeyiniz ise deklarativ. Tebiki tam bire bir uygun olmasada aglima gelen en besit numune bu idi. Oz 
+daxilinde ise Imperativ pradiqmalar 3 yere bolunur, bunlar Procedural, Object Oriented, Parallel Processing, Deklarativ pradiqmalar ise Logic, Functional, Data flow,Database olaraq bolunur. Procedular 
+pradiqmalarin esas meqsedi neticenin nece veya hansi komandalarla elde edildiyidi.Esasen bagli sistemlerde cihazlarda bu pradiqmalardan istifade olunur.Object oriented problemlerin sinifler ve obyektler
+'seklinde modellesdirildiyi pradiqmadi. Esas diqqet prosese yox istifade olunan melumatlaradi. Meselen bir sirket kimi isci maas ve bonuslarini bele hesaplaya bilerik
